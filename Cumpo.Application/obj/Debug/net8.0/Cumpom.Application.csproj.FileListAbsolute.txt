@@ -1,0 +1,17 @@
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\bin\Debug\net8.0\Cumpom.Application.deps.json
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\bin\Debug\net8.0\Cumpom.Application.dll
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\bin\Debug\net8.0\Cumpom.Application.pdb
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\bin\Debug\net8.0\Cumpom.Core.dll
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\bin\Debug\net8.0\Cupom.Infrastructure.dll
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\bin\Debug\net8.0\Cumpom.Core.pdb
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\bin\Debug\net8.0\Cupom.Infrastructure.pdb
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\Cumpom.Application.csproj.AssemblyReference.cache
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\Cumpom.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\Cumpom.Application.AssemblyInfoInputs.cache
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\Cumpom.Application.AssemblyInfo.cs
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\Cumpom.Application.csproj.CoreCompileInputs.cache
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\Cumpom.A.5B94A9E8.Up2Date
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\Cumpom.Application.dll
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\refint\Cumpom.Application.dll
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\Cumpom.Application.pdb
+C:\Users\a897212\source\repos\Cupom\Cumpo.Application\obj\Debug\net8.0\ref\Cumpom.Application.dll

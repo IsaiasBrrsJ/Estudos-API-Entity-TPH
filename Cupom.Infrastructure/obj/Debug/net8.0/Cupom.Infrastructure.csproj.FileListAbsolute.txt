@@ -1,0 +1,17 @@
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\bin\Debug\net8.0\Cupom.Infrastructure.deps.json
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\bin\Debug\net8.0\Cupom.Infrastructure.dll
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\bin\Debug\net8.0\Cupom.Infrastructure.pdb
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\bin\Debug\net8.0\Cumpom.Core.dll
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\bin\Debug\net8.0\Cumpom.Core.pdb
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\Cupom.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\Cupom.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\Cupom.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\Cupom.Infrastructure.AssemblyInfo.cs
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\Cupom.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\Cupom.In.8B88EA6D.Up2Date
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\Cupom.Infrastructure.dll
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\refint\Cupom.Infrastructure.dll
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\Cupom.Infrastructure.pdb
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\ref\Cupom.Infrastructure.dll
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\bin\Debug\net8.0\Cupom.Infrastructure.runtimeconfig.json
+C:\Users\a897212\source\repos\Cupom\Cupom.Infrastructure\obj\Debug\net8.0\Cupom.Infrastructure.genruntimeconfig.cache

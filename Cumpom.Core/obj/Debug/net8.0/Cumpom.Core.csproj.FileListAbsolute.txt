@@ -1,0 +1,11 @@
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\bin\Debug\net8.0\Cumpom.Core.deps.json
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\bin\Debug\net8.0\Cumpom.Core.dll
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\bin\Debug\net8.0\Cumpom.Core.pdb
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\obj\Debug\net8.0\Cumpom.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\obj\Debug\net8.0\Cumpom.Core.AssemblyInfoInputs.cache
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\obj\Debug\net8.0\Cumpom.Core.AssemblyInfo.cs
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\obj\Debug\net8.0\Cumpom.Core.csproj.CoreCompileInputs.cache
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\obj\Debug\net8.0\Cumpom.Core.dll
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\obj\Debug\net8.0\refint\Cumpom.Core.dll
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\obj\Debug\net8.0\Cumpom.Core.pdb
+C:\Users\a897212\source\repos\Cupom\Cumpom.Core\obj\Debug\net8.0\ref\Cumpom.Core.dll
