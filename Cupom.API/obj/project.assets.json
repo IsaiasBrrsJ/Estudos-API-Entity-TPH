@@ -1571,44 +1571,44 @@
           }
         }
       },
-      "Cumpom.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Cumpom.Core": "1.0.0",
-          "Cupom.Infrastructure": "1.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
-        },
-        "compile": {
-          "bin/placeholder/Cumpom.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Cumpom.Application.dll": {}
-        }
-      },
-      "Cumpom.Core/1.0.0": {
+      "Coupon.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Cumpom.Core.dll": {}
+          "bin/placeholder/Coupon.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Cumpom.Core.dll": {}
+          "bin/placeholder/Coupon.Core.dll": {}
         }
       },
-      "Cupom.Infrastructure/1.0.0": {
+      "Coupon.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Cumpom.Core": "1.0.0",
+          "Coupon.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
         },
         "compile": {
-          "bin/placeholder/Cupom.Infrastructure.dll": {}
+          "bin/placeholder/Coupon.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Cupom.Infrastructure.dll": {}
+          "bin/placeholder/Coupon.Infrastructure.dll": {}
+        }
+      },
+      "Coupoun.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Coupon.Core": "1.0.0",
+          "Coupon.Infrastructure": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
+        },
+        "compile": {
+          "bin/placeholder/Coupoun.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Coupoun.Application.dll": {}
         }
       }
     }
@@ -4468,25 +4468,25 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Cumpom.Application/1.0.0": {
+    "Coupon.Core/1.0.0": {
       "type": "project",
-      "path": "../Cumpo.Application/Cumpom.Application.csproj",
-      "msbuildProject": "../Cumpo.Application/Cumpom.Application.csproj"
+      "path": "../Cumpom.Core/Coupon.Core.csproj",
+      "msbuildProject": "../Cumpom.Core/Coupon.Core.csproj"
     },
-    "Cumpom.Core/1.0.0": {
+    "Coupon.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Cumpom.Core/Cumpom.Core.csproj",
-      "msbuildProject": "../Cumpom.Core/Cumpom.Core.csproj"
+      "path": "../Cupom.Infrastructure/Coupon.Infrastructure.csproj",
+      "msbuildProject": "../Cupom.Infrastructure/Coupon.Infrastructure.csproj"
     },
-    "Cupom.Infrastructure/1.0.0": {
+    "Coupoun.Application/1.0.0": {
       "type": "project",
-      "path": "../Cupom.Infrastructure/Cupom.Infrastructure.csproj",
-      "msbuildProject": "../Cupom.Infrastructure/Cupom.Infrastructure.csproj"
+      "path": "../Cumpo.Application/Coupoun.Application.csproj",
+      "msbuildProject": "../Cumpo.Application/Coupoun.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Cumpom.Application >= 1.0.0",
+      "Coupoun.Application >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
@@ -4498,9 +4498,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.API\\Cupom.API.csproj",
-      "projectName": "Cupom.API",
-      "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.API\\Cupom.API.csproj",
+      "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.API\\Coupon.API.csproj",
+      "projectName": "Coupon.API",
+      "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.API\\Coupon.API.csproj",
       "packagesPath": "C:\\Users\\a897212\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.API\\obj\\",
       "projectStyle": "PackageReference",
@@ -4524,8 +4524,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Cumpom.Application.csproj": {
-              "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Cumpom.Application.csproj"
+            "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Coupoun.Application.csproj": {
+              "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Coupoun.Application.csproj"
             }
           }
         }
