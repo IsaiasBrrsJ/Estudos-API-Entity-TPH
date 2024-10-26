@@ -27,5 +27,11 @@ namespace Cupom.API.Controllers
 
             return Ok();
         }
+        [HttpGet("Client/{userId}/Coupon")]
+        public async Task<IActionResult> GetCouponClient([FromRoute] Guid userId)
+        {
+            //TODO
+            return Ok();
+        }
     }
 }
