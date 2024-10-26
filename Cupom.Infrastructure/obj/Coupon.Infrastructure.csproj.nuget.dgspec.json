@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Cupom.Infrastructure.csproj": {}
+    "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Coupon.Infrastructure.csproj": {}
   },
   "projects": {
     "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj": {
@@ -69,12 +69,12 @@
         }
       }
     },
-    "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Cupom.Infrastructure.csproj": {
+    "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Coupon.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Cupom.Infrastructure.csproj",
-        "projectName": "Cupom.Infrastructure",
-        "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Cupom.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Coupon.Infrastructure.csproj",
+        "projectName": "Coupon.Infrastructure",
+        "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Coupon.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\a897212\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",

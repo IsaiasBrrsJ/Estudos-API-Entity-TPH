@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Cumpom.Core.csproj",
-      "projectName": "Cumpom.Core",
-      "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Cumpom.Core.csproj",
+      "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj",
+      "projectName": "Coupon.Core",
+      "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj",
       "packagesPath": "C:\\Users\\a897212\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\obj\\",
       "projectStyle": "PackageReference",

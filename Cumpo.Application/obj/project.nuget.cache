@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "otgd9RHXnRc=",
+  "dgSpecHash": "5h6qwvY/pL8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Cumpom.Application.csproj",
+  "projectFilePath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Coupoun.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a897212\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\a897212\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
