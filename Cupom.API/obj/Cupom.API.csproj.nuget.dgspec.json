@@ -4,12 +4,12 @@
     "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.API\\Cupom.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Cumpom.Application.csproj": {
+    "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Coupoun.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Cumpom.Application.csproj",
-        "projectName": "Cumpom.Application",
-        "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Cumpom.Application.csproj",
+        "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Coupoun.Application.csproj",
+        "projectName": "Coupoun.Application",
+        "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Coupoun.Application.csproj",
         "packagesPath": "C:\\Users\\a897212\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Cumpom.Core.csproj": {
-                "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Cumpom.Core.csproj"
+              "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj": {
+                "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj"
               },
               "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Cupom.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cupom.Infrastructure\\Cupom.Infrastructure.csproj"
@@ -82,12 +82,12 @@
         }
       }
     },
-    "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Cumpom.Core.csproj": {
+    "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Cumpom.Core.csproj",
-        "projectName": "Cumpom.Core",
-        "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Cumpom.Core.csproj",
+        "projectUniqueName": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj",
+        "projectName": "Coupon.Core",
+        "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj",
         "packagesPath": "C:\\Users\\a897212\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -176,8 +176,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Cumpom.Application.csproj": {
-                "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Cumpom.Application.csproj"
+              "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Coupoun.Application.csproj": {
+                "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpo.Application\\Coupoun.Application.csproj"
               }
             }
           }
@@ -260,8 +260,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Cumpom.Core.csproj": {
-                "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Cumpom.Core.csproj"
+              "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj": {
+                "projectPath": "C:\\Users\\a897212\\source\\repos\\Cupom\\Cumpom.Core\\Coupon.Core.csproj"
               }
             }
           }
